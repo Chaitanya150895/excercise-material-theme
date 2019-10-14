@@ -26,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "# excercise-material-theme" 
+
+##Installing node_modules
+
+Get the clone of the repository and and open it in visual studio.
+In the command run the command `npm install` once you complete installing the required dependencies. Run the command `ng serve` to run the project in the browser. After complete serving the project. In browser check the url `http://localhost:4200/`.
